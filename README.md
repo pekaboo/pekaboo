@@ -40,3 +40,7 @@ Blogger, Lifelong learner.
     </a>
 </p>
 -->
+
+
+![pekaboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pekaboo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pekaboo&layout=compact&hide=css,scss,html,Dockerfile&langs_count=8&show_icons=true&theme=radical)
