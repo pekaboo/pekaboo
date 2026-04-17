@@ -1,4 +1,4 @@
-### Hi I'm 学长的猫 👋
+### Hi I'm pekaboo 👋
 
 <!--
 **pekaboo/pekaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,9 @@ hua1995116
 
 -->
  
-
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pekaboo&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+-->
 
 I'm a three year working full stack engineer who enjoys building wheels and playing with some fun stuff.
 
@@ -41,7 +42,7 @@ Blogger, Lifelong learner.
 </p>
 -->
 
-<!--
+
 ![pekaboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pekaboo&show_icons=true&theme=radical)
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pekaboo&layout=compact&hide=css,scss,html,Dockerfile&langs_count=8&show_icons=true&theme=radical)
