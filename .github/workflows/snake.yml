@@ -19,6 +19,20 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: pekaboo
+          template: classic
+          base: header, activity, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css, scss, dockerfile, batchfile
+          output: svg
+          filename: dist/metrics.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
