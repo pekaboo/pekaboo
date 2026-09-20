@@ -2,7 +2,7 @@ name: Snake
 
 on:
   schedule:
-    - cron: "17 2 * * *" # daily, off-peak
+    - cron: "17 2 * * TUE,FRI" # daily, off-peak
   workflow_dispatch:
 
 jobs:
